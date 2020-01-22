@@ -39,4 +39,5 @@
     Hay dos servidores web en la empresa, el primero para los anuncios de Marketing, el cual contiene las páginas de los anuncios acabados, y uno para los productos que tiene disponibles el almacén para comprarlos.   
     
     El primero se encuentra en la dirección IP 198.168.4.4 (Red 4) y el DNS que resuelve su dirección web posee la IP 198.168.4.3. Para acceder a esta página web debe buscarse en los navegadores de la 2ª, 3ª y 4ª red la dirección www.finalizados.es (ésta mostrará un índice de los anuncios finalizados que llevará a la imagen de dicho anuncio).   
+    
     El segundo se encuentra en la dirección IP 198.168.6.3 (Red 6) y su DNS en 198.168.6.2. Para acceder a esta web debe ser desde las redes 5ª y 7ª buscando www.almacen.com (esta página mostrará un índice de los productos disponibles con sus características y fotos)
